@@ -6,7 +6,8 @@ public class suma {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Suma");
-		//bien
+		System.out.println("bien");
+
 	}
 
 }
